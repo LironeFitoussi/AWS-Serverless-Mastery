@@ -95,7 +95,3 @@ Learning AWS Lambda unlocks the power of **scalable, cost-efficient serverless a
 Happy building,
 **Lirone Fitoussi**
 ```
-
----
-
-Let me know if you'd like to add badges (like `![AWS Certified]`), images of diagrams, or detailed step-by-step instructions for each folder!

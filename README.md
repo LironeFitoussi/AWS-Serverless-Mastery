@@ -85,6 +85,3 @@ MIT License – use it, learn from it, build with it.
 
 > Built by [Lirone Fitoussi](https://github.com/lironefitoussi)  
 > 📅 May 2025
-```
-
-Let me know if you want GitHub Pages setup, badges, or a visual table of contents.
