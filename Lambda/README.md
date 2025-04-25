@@ -94,4 +94,3 @@ Learning AWS Lambda unlocks the power of **scalable, cost-efficient serverless a
 
 Happy building,
 **Lirone Fitoussi**
-```
