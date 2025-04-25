@@ -1,0 +1,52 @@
+[
+  {
+    "sizeMB": 10,
+    "output": 1310720,
+    "durationMs": "125.108",
+    "memoryUsedMB": "68.117",
+    "costPerCallUSD": "2.606e-7",
+    "suggestedMemory": 128,
+    "suggestedTimeout": 2,
+    "suggestedStorage": 512
+  },
+  {
+    "sizeMB": 50,
+    "output": 6553600,
+    "durationMs": "715.890",
+    "memoryUsedMB": "206.863",
+    "costPerCallUSD": "0.0000029829",
+    "suggestedMemory": 256,
+    "suggestedTimeout": 2,
+    "suggestedStorage": 512
+  },
+  {
+    "sizeMB": 100,
+    "output": 13107200,
+    "durationMs": "1389.977",
+    "memoryUsedMB": "254.398",
+    "costPerCallUSD": "0.0000057916",
+    "suggestedMemory": 256,
+    "suggestedTimeout": 3,
+    "suggestedStorage": 512
+  },
+  {
+    "sizeMB": 200,
+    "output": 26214400,
+    "durationMs": "3212.718",
+    "memoryUsedMB": "503.707",
+    "costPerCallUSD": "0.0000267727",
+    "suggestedMemory": 512,
+    "suggestedTimeout": 5,
+    "suggestedStorage": 512
+  },
+  {
+    "sizeMB": 300,
+    "output": 39321600,
+    "durationMs": "14373.900",
+    "memoryUsedMB": "1229.047",
+    "costPerCallUSD": "0.0002994569",
+    "suggestedMemory": 1280,
+    "suggestedTimeout": 16,
+    "suggestedStorage": 1024
+  }
+]
