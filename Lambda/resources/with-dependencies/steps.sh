@@ -11,4 +11,4 @@ chmod a+r *
 zip -r function.zip .
 
 # create the Lambda function using the CLI
-aws lambda create-function --zip-file fileb://function.zip --function-name lambda-xray-with-dependencies --runtime nodejs22.x --handler index.handler --role TODO
+aws lambda create-function --zip-file fileb://function.zip --function-name lambda-xray-with-dependencies --runtime nodejs22.x --handler index.handler --role arn:aws:iam::975050225319:role/DemoLambdaWithDependencies
