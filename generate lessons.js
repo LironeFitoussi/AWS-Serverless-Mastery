@@ -9,135 +9,110 @@ const kebabCase = str =>
     .replace(/^-+|-+$/g, '');    // Trim hyphens from start/end
 
 const rawLessons = `
-Lesson 332:
-DynamoDB - Section Introduction
+Lesson 358:
+API Gateway - Section Introduction
 1m
-May 15, 2025
+May 17, 2025
 
-Lesson 333:
-DynamoDB Overview
+Lesson 359:
+API Gateway Overview
+7m
+May 17, 2025
+
+Lesson 360:
+API Gateway Basics Hands On
+10m
+May 17, 2025
+
+Lesson 361:
+API Gateway Stages and Deployment
+4m
+May 17, 2025
+
+Lesson 362:
+API Gateway Stages and Deployment Hands On
 8m
-May 15, 2025
+May 17, 2025
 
-Lesson 334:
-DynamoDB Basics - Hands On
-9m
-May 15, 2025
-
-Lesson 335:
-DynamoDB WCU & RCU - Throughput
-11m
-May 15, 2025
-
-Lesson 336:
-DynamoDB WCU & RCU - Hands On
-4m
-May 15, 2025
-
-Lesson 337:
-DynamoDB - Basic Operations
-8m
-May 16, 2025
-
-Lesson 338:
-DynamoDB Basic APIs - Hands On
-3m
-May 16, 2025
-
-Lesson 339:
-DynamoDB - Conditional Writes
-6m
-May 16, 2025
-
-Lesson 340:
-DynamoDB Indexes (GSI + LSI)
-4m
-May 16, 2025
-
-Lesson 341:
-DynamoDB Indexes (GSI + LSI) - Hands On
-4m
-May 16, 2025
-
-Lesson 342:
-DynamoDB PartiQL
-3m
-May 16, 2025
-
-Lesson 343:
-DynamoDB Optimistic Locking
-2m
-May 16, 2025
-
-Lesson 344:
-DynamoDB DAX
-3m
-May 16, 2025
-
-Lesson 345:
-DynamoDB DAX - Hands On
-4m
-May 16, 2025
-
-Lesson 346:
-DynamoDB Streams
-4m
-May 16, 2025
-
-Lesson 347:
-DynamoDB Streams - Hands On
-6m
-May 16, 2025
-
-Lesson 348:
-DynamoDB TTL
-5m
-May 16, 2025
-
-Lesson 349:
-DynamoDB CLI
-5m
-May 16, 2025
-
-Lesson 350:
-DynamoDB Transactions
-4m
-May 16, 2025
-
-Lesson 351:
-DynamoDB Session State
-2m
-May 16, 2025
-
-Lesson 352:
-DynamoDB Partitioning Strategies
+Lesson 363:
+API Gateway Stages Configurations Hands On
 1m
-May 16, 2025
-
-Lesson 353:
-DynamoDB Conditional Writes, Concurrent Writes & Atomic Writes
-2m
 May 17, 2025
 
-Lesson 354:
-DynamoDB Patterns with S3
+Lesson 364:
+API Gateway Canary Deployments
+1m
+May 17, 2025
+
+Lesson 365:
+API Gateway Canary Deployments Hands On
+4m
+May 17, 2025
+
+Lesson 366:
+API Gateway Integration Types & Mappings
+6m
+May 17, 2025
+
+Lesson 367:
+API Gateway Mapping Templates Hands On
+4m
+May 17, 2025
+
+Lesson 368:
+API Gateway Open API
 3m
 May 17, 2025
 
-Lesson 355:
-DynamoDB Operations
+Lesson 369:
+API Gateway Open API - Hands On
 2m
-May 17, 2025
+May 18, 2025
 
-Lesson 356:
-DynamoDB Security & Other
-3m
-May 17, 2025
+Lesson 370:
+API Gateway Caching
+4m
+May 18, 2025
 
-Lesson 357:
-Quiz 19: DynamoDB Quiz
-0m
-May 17, 2025
+Lesson 371:
+API Gateway Usage Plans & API Keys
+2m
+May 18, 2025
+
+Lesson 372:
+API Gateway Monitoring, Logging and Tracing
+5m
+May 18, 2025
+
+Lesson 373:
+API Gateway CORS
+1m
+May 18, 2025
+
+Lesson 374:
+API Gateway Authentication and Authorization
+7m
+May 18, 2025
+
+Lesson 375:
+API Gateway Authentication and Authorization - Hands On
+2m
+May 18, 2025
+
+Lesson 376:
+API Gateway REST API vs HTTP API
+1m
+May 18, 2025
+
+Lesson 377:
+API Gateway Websocket API
+7m
+May 18, 2025
+
+Lesson 378:
+API Gateway - Architecture
+2m
+May 18, 2025
 `;
 
 // Output folder
